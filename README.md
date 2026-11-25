@@ -1,6 +1,6 @@
 # Salut, moi c'est SANOUSSI Stéphan👋
 
-### [Votre Titre, ex. : Développeur Full-Stack | Étudiant en Informatique | Passionné d'IA]
+### Développeur Full-Stack | Étudiant en Informatique | Passionné d'IA
 
 Je suis basé(e) à **[Votre Ville / Pays, ex. : Lomé, Togo]** et j'aime construire des solutions utiles, propres et performantes. Actuellement, je me perfectionne en **[Technologie ou domaine principal]** et j'explore **[Nouveau sujet ou projet en cours]**.
 
