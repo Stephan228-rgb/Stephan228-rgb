@@ -32,7 +32,7 @@ Je suis basé(e) à Lomé, Togo et j'aime construire des solutions utiles, propr
 
 ### 📫 Me contacter
 
-* **LinkedIn :** [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)
+* **LinkedIn : 93405142/96208240
 * **Portfolio / Site web :** [votresite.com](https://votresite.com)
 * **Email :** `stephansanoussi3@gmail.com
 
